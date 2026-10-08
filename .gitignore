@@ -1,0 +1,15 @@
+# Output of app/fetch_hashtag_posts.py (regenerated on every run)
+app/hashtags/
+
+# CSV exports from the review page
+*.csv
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local secrets
+.env

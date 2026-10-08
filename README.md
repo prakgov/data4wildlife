@@ -22,7 +22,7 @@
 - Collect json (first page only), extract images & label images by user id
 - Save images in folder labelled by language (_see **Future Prospects**_)
 - Iterate api calls & collect images 
-- Import json to webpage, [index.html](updated_(code-webpage)/index.html), for human validation of images
+- Import json to webpage, [index.html](app/index.html), for human validation of images
 - Manually validate images and export csv file with information from comments
 
 ### Future Prospects 👀
